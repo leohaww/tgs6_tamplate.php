@@ -1,0 +1,1 @@
+# tgs6_tamplate.php
